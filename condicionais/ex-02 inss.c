@@ -13,7 +13,7 @@ int main() {
     }
     
     printf("salario = %f\n", salario);
-    printf("salario-contribuicao = %f\n", salarioContribuicao)
+    printf("salario-contribuicao = %f\n", salarioContribuicao);
 
     if (salario <= 1.518) {
         printf("O desconto do seu salário é de 7,5%% - desconto = %f\n", salarioContribuicao);
